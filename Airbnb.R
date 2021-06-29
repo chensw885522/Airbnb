@@ -1,4 +1,3 @@
-setwd("D:/csw/ѧϰ/UW/DATASCI 350/final")
 Airbnb=read.csv("listings.csv")
 Airbnb=read.csv("listings_full_2.csv")
 str(Airbnb)
